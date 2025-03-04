@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Campus Horticulture Management Mini Project",
+  "homepage": "https://github.com/ankitanand17/college-mini-project#readme",
+  "bugs": {
+    "url": "https://github.com/ankitanand17/college-mini-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitanand17/college-mini-project.git"
+  },
+  "license": "ISC",
+  "author": "Ankit Anand",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cros": "^1.0.1",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
